@@ -1,6 +1,7 @@
 {
   "name": "reactive-vbet",
   "version": "0.0.1",
+  "main": "/dev/index/mobileApp.js",
   "scripts": {
     "test": "jest",
     "start": "cross-env NODE_ENV='development' webpack-dev-server --inline --hot --config=webpack.mobile.config.js",
